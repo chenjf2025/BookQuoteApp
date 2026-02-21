@@ -1,0 +1,32 @@
+# Node & Frontend
+node_modules/
+dist/
+dist-ssr/
+*.local
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.env
+
+# Build & Release
+*.tar.gz
+*.zip
+coverage/
+
+# OS & IDE
+.DS_Store
+.vscode/
+.idea/
+.cursor/
+
+# Static output
+backend/static/mindmap_*.jpg
+backend/static/mindmap_*.pdf
+backend/static/mindmap_*.html
+backend/static/mindmap_*.txt
+backend/static/mindmap_*.md
+backend/static/render_*.js
